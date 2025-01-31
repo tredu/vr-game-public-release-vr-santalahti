@@ -1,2 +1,4 @@
 # vr-game-public-release-vr-santalahti
-vr-game-public-release-vr-santalahti created by GitHub Classroom
+
+This repostory is only used to get the latest public release of the TreduCare game
+
